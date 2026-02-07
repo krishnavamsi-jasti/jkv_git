@@ -1,1 +1,2 @@
 This is the new text file created in VS
+New changes from the vs code 
